@@ -1,0 +1,37 @@
+﻿@model HazarVentures.ViewModels.RequestModels.CreateDepartmentRequestModel
+<<style>
+    #sp:hover {
+        font-size: 150%;
+    }
+    #sp {
+        color: white;
+        background-color: darkcyan;
+        font-size: 130%;
+        font-weight: bold;
+        padding: 4px 8px;
+    }
+    button {
+        margin-top: 40px;
+        background-color: darkcyan;
+        margin-left: 15px;
+    }
+</style>
+
+
+<p style="color: brown; font-size:xx-large; font-weight:bold;">Add a Department by filling out the form below</p>
+<form method="POST">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="col-md-6" style="margin-top: 40px; font-size: larger; font-weight: bold; color: darkcyan">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" type="text" class="form-control">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    
+    <button id="sp" type="submit"> Create</button>
+</form>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

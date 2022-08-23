@@ -1,0 +1,154 @@
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\appsettings.json
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.exe
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.deps.json
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.runtimeconfig.json
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.runtimeconfig.dev.json
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.pdb
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.Views.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.Views.pdb
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.csproj.AssemblyReference.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.AssemblyInfoInputs.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.AssemblyInfo.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.csproj.CoreCompileInputs.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorAssemblyInfo.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorAssemblyInfo.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\scopedcss\bundle\HazarVentures.styles.css
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\staticwebassets\HazarVentures.StaticWebAssets.Manifest.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.TagHelpers.input.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.TagHelpers.output.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorCoreGenerate.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorTargetAssemblyInfo.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorTargetAssemblyInfo.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.Views.pdb
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.csproj.CopyComplete
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\refint\HazarVentures.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.pdb
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.genruntimeconfig.cache
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\ref\HazarVentures.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\Index.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\RegisterLecturer.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\DeleteLecturer.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\Update.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\Details.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\AddDepartment.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Student\CreateStudent.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\_LecturerLayout.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\_StudentLayout.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Student\StudentDetails.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\User\UserInfo.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+C:\Users\Oluwafemi\Documents\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\UpdateDepartment.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.exe
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.deps.json
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.runtimeconfig.json
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.runtimeconfig.dev.json
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.pdb
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.Views.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\HazarVentures.Views.pdb
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.AssemblyInfo.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\scopedcss\bundle\HazarVentures.styles.css
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\staticwebassets\HazarVentures.StaticWebAssets.Manifest.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.TagHelpers.input.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.TagHelpers.output.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorCoreGenerate.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\AddDepartment.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Department\UpdateDepartment.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\DeleteLecturer.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\Details.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\Index.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\RegisterLecturer.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Lecturer\Update.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\_LecturerLayout.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\_StudentLayout.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Student\CreateStudent.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\Student\StudentDetails.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\User\UserInfo.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.Views.pdb
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.csproj.CopyComplete
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\refint\HazarVentures.dll
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.pdb
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\HazarVentures.genruntimeconfig.cache
+C:\Users\HP\Documents\documents from old laptop\documents tranfered\HazarVentures\HazarVentures\obj\Debug\net5.0\ref\HazarVentures.dll

@@ -1,0 +1,52 @@
+﻿@model HazarVentures.ViewModels.ResponseModels.UsersResponseModel
+<style>
+    a:hover {
+        font-size: 80%;
+    }
+</style>
+
+<h1 style="margin-top: 50px; margin-bottom:30px;">List of Users</h1>
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th style="font-weight: bolder; font-size: larger;">
+                S/N
+            </th>
+            <th>
+               Email
+            </th>
+            <th>
+                Edit
+            </th>
+            <th>
+                Details
+            </th>
+            <th>
+                Delete
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Data)
+        {
+            <tr>
+                <td>
+                    @user.Id
+                </td>
+                <td>
+                    @user.Email
+                </td>
+             
+                <td>
+                    <a asp-action="UpdateEmail" asp-route-id="@user.Id">Edit</a>
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@user.Id">Details</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@user.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

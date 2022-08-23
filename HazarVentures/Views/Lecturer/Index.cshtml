@@ -1,0 +1,53 @@
+﻿@model HazarVentures.ViewModels.ResponseModels.LecturersResponseModel
+
+<style>
+    a:hover {
+        font-size: 80%;
+    }
+</style>
+
+<h1 style="margin-top: 50px; margin-bottom:30px;">List of Lecturers</h1>
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th style="font-weight: bolder; font-size: larger;">
+                S/N
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Edit
+            </th>
+            <th>
+                Details
+            </th>
+            <th>
+                Delete
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var lecturer in Model.Data)
+        {
+            <tr>
+                <td>
+                    @lecturer.Id
+                </td>
+                <td>
+                    @lecturer.FirstName @lecturer.LastName
+                </td>
+                <td>
+                    <a asp-action="Update"asp-route-id="@lecturer.Id">Edit</a>
+                </td>
+                <td>
+                    <a asp-action="Details"asp-route-id="@lecturer.Id">Details</a>
+                </td>
+                <td>
+                    <a asp-action="DeleteLecturer"asp-route-id="@lecturer.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p style="margin-top: 10px;"><button type="button" style="padding:4px 8px; color: white; border-radius: 8px; background-color:darkcyan;"><a asp-controller="Lecturer" asp-action="RegisterLecturer" style="color:white; text-decoration:none;">Register Lecturer</a></button></p>

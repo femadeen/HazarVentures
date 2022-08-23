@@ -1,0 +1,24 @@
+﻿@model HazarVentures.ViewModels.ResponseModels.DepartmentResponseModel
+
+<div>
+	<p>
+		The detail of the department is shown below;
+	</p>
+	<p>@Model.Data.Name</p>
+	<p>
+		List Of Students in Department
+	</p>
+	@foreach(var student in Model.Data.Students)
+	{
+		<p>@student.FirstName @student.LastName</p>
+		<p>@student.Age</p>
+	}
+	<p>
+		List Of Lecturers in Department
+	</p>
+	@foreach(var student in Model.Data.Lecturers)
+	{
+		<p>@student.FirstName @student.LastName</p>
+	}
+	<a asp-action="Index">Go back to index </a>
+</div>

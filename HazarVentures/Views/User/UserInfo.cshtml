@@ -1,0 +1,15 @@
+﻿@model HazarVentures.ViewModels.ResponseModels.UserResponseModel
+<div>
+	<p>
+		The detail of the Student is shown below;
+	</p>
+	<p>First Name: @Model.Data.FirstName</p>
+	<p>Last Name: @Model.Data.LastName</p>
+	<p>Student email: @Model.Data.Email</p>
+	<p>Student department: @Model.Data.DepartmentName</p>
+	<p>Student Role: @Model.Data.RoleName</p>
+
+	
+
+	<a asp-action="Index">Go back to index </a>
+</div>

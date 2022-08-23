@@ -1,0 +1,33 @@
+﻿@model HazarVentures.ViewModels.RequestModels.UpdateLecturerRequestModel
+<<style>
+    #sp:hover {
+        font-size: 150%;
+    }
+    #sp {
+        color: white;
+        background-color: darkcyan;
+        font-size: 130%;
+        font-weight: bold;
+        padding: 4px 8px;
+    }
+    button {
+        margin-top: 40px;
+        background-color: darkcyan;
+        margin-left: 15px;
+    }
+</style>
+
+
+<p style="color: brown; font-size:xx-large; font-weight:bold;">Lecturer Update Form</p>
+<form asp-action="Update">
+    <div class="col-md-6" style="margin-top: 40px; font-size: larger; font-weight: bold; color: darkcyan">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" type="text" value="@Model.Email" class="form-control">
+    </div>
+    <div class="col-md-6" style="margin-top: 40px; font-size: larger; font-weight: bold; color: darkcyan">
+        <label asp-for="LastName" class="form-label">Last Name</label>
+        <input asp-for="LastName" type="text" value="@Model.LastName" class="form-control">
+    </div>
+    
+    <button id="sp" type="submit">Update</button>
+</form>

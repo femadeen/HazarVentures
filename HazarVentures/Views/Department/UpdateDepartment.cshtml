@@ -1,0 +1,29 @@
+﻿@model HazarVentures.ViewModels.RequestModels.UpdateDepartmentRequestModel
+<<style>
+    #sp:hover {
+        font-size: 150%;
+    }
+    #sp {
+        color: white;
+        background-color: darkcyan;
+        font-size: 130%;
+        font-weight: bold;
+        padding: 4px 8px;
+    }
+    button {
+        margin-top: 40px;
+        background-color: darkcyan;
+        margin-left: 15px;
+    }
+</style>
+
+
+<p style="color: brown; font-size:xx-large; font-weight:bold;">Update Department  Name Below</p>
+<form asp-action="UpdateDepartment">
+    <div class="col-md-6" style="margin-top: 40px; font-size: larger; font-weight: bold; color: darkcyan">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" type="text" value="@Model.Name" class="form-control">
+    </div>
+    
+    <button id="sp" type="submit">Update</button>
+</form>

@@ -1,0 +1,12 @@
+﻿@model HazarVentures.ViewModels.ResponseModels.LecturerResponseModel
+
+<div>
+	<p>
+		The detail of the lecturer is shown below;
+	</p>
+	<p>First Name : @Model.Data.FirstName</p>
+	<p>Last Name :@Model.Data.LastName</p>
+	<p>Lecturer email address : @Model.Data.Email</p>
+	<p>Lecture Code Number :@Model.Data.lecturerCode</p>
+	<a asp-action="Index">Go back to index </a>
+</div>

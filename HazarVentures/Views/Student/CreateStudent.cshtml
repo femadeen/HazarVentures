@@ -1,0 +1,52 @@
+﻿@model HazarVentures.ViewModels.RequestModels.CreateStudentRequestModel
+
+<<style>
+    #sp:hover {
+        font-size: 150%;
+    }
+    #sp {
+        color: white;
+        background-color: darkcyan;
+        font-size: 130%;
+        font-weight: bold;
+        padding: 4px 8px;
+    }
+    button {
+        margin-top: 40px;
+        background-color: darkcyan;
+        margin-left: 15px;
+    }
+</style>
+
+
+<p style="color: brown; font-size:xx-large; font-weight:bold;">Add Student by filling out the form below</p>
+<form method="POST">
+     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="col-md-6" style="margin-top: 40px; font-size: larger; font-weight: bold; color: darkcyan">
+        <label asp-for="FirstName" class="form-label">First Name</label>
+        <input asp-for="FirstName" type="text" class="form-control">
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="col-md-6" style="margin-top: 40px; font-size: larger; font-weight: bold; color: darkcyan">
+        <label asp-for="LastName" class="form-label">Last Name</label>
+        <input asp-for="LastName" type="text" class="form-control">
+    </div>
+   
+    <div class="col-md-6" style="margin-top: 40px; font-size: larger; font-weight: bold; color: darkcyan">
+        <label asp-for="Email" class="form-label">email</label>
+        <input asp-for="Email" type="text" class="form-control">
+    </div>
+    <div class="col-md-6" style="margin-top: 40px; font-size: larger; font-weight: bold; color: darkcyan">
+        <label asp-for="Password" class="form-label">password</label>
+        <input asp-for="Password" type="password" class="form-control">
+         <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+     <div class="col-md-6" style="margin-top: 40px; font-size: larger; font-weight: bold; color: darkcyan">
+        <label asp-for="DepartmentId" class="control-label"></label>
+        <select asp-for="DepartmentId" asp-items="ViewBag.Departments"> 
+            <option value="0">--Select Department--</option>
+        </select>
+      </div>
+    
+    <button id="sp" type="submit"> Create</button>
+</form>
